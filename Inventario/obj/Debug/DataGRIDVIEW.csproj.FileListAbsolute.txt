@@ -1,0 +1,10 @@
+C:\Users\eveli\source\repos\DataGRIDVIEW\bin\Debug\DataGRIDVIEW.exe.config
+C:\Users\eveli\source\repos\DataGRIDVIEW\bin\Debug\DataGRIDVIEW.exe
+C:\Users\eveli\source\repos\DataGRIDVIEW\bin\Debug\DataGRIDVIEW.pdb
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.csproj.AssemblyReference.cache
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.Form1.resources
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.Properties.Resources.resources
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.csproj.GenerateResource.cache
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.csproj.CoreCompileInputs.cache
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.exe
+C:\Users\eveli\source\repos\DataGRIDVIEW\obj\Debug\DataGRIDVIEW.pdb
